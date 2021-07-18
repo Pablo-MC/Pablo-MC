@@ -2,8 +2,7 @@
 
 - Desarrollador web enfocado principalmente en el área del Front-end.
 - Utilizo como preferencia tecnologías relacionadas al ecosistema de JavaScript. 💛
-- _Poseo como objetivo principal, el cual me motiva día a día a seguir aprendiendo desarrollo Web, construir soluciones a problemas que realmente ayuden con eficacia a mejorar la vida de las personas._
-- Actualmente me encuentro realizando un nuevo curso de [React.js](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+- _Poseo como objetivo principal construir soluciones a problemas que ayuden a mejorar la vida de las personas._
 
 ### 🔷 Tecnologías y Herramientas de preferencia:   
 
