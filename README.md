@@ -2,7 +2,7 @@
 
 - Desarrollador web enfocado principalmente en el área del Front-end.
 - Utilizo como preferencia tecnologías relacionadas al ecosistema de JavaScript. 💛
-- _Poseo como objetivo principal construir soluciones a problemas que ayuden a mejorar la vida de las personas._
+- _Poseo como objetivo principal construir soluciones a problemas que ayuden a facilitar la vida de las personas._
 - Actualmente me encuentro desarrollando un clon de [YouTube Music](https://github.com/Pablo-MC/your-music) utilizando React.js.  
 
 ### 🔷 Tecnologías y Herramientas de preferencia:   
