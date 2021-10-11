@@ -11,6 +11,6 @@
 
 #
 
-### 🔷 CodeWars [(_Soluciones_)](https://www.codewars.com/users/Pablo%20Mart%C3%ADn%20Cruz/completed_solutions)
+### 🔷 Codewars [(_Soluciones_)](https://www.codewars.com/users/Pablo%20Mart%C3%ADn%20Cruz/completed_solutions)
 
 <img src="https://www.codewars.com/users/Pablo%20Mart%C3%ADn%20Cruz/badges/large">
